@@ -21,6 +21,8 @@
 *.dylib
 
 # Executables
+footunnelc
+footunneld
 *.exe
 *.out
 *.app
